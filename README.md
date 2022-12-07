@@ -1,5 +1,5 @@
 ### Netflix clone 
-# feameWork : React
-# styling : CSS
+# FrameWork : React
+# Styling : CSS
 # Authentication : Firebase
 ** Responsive 100%
